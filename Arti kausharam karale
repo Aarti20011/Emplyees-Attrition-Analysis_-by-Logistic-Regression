@@ -1,0 +1,12 @@
+Here is my project on employee attrition. Here is the definition of 'Attrition'.
+- A reduction in staff due to attrition is often called a hiring freeze and is seen as a less disruptive way to trim the workforce and reduce payroll than layoffs
+- In this NoteBook our Aim will be to analyze the datasets completely wrt each and feature and find the reason behind Attrition of Employees.
+- And what the top factors which lead to employee attrition? 📄 ✏ 
+
+The basic aim of this project is to find out the reason and various factors related to the layoffs. 📈 
+The model used is logistic regression model and it gave 64% accuracy which is not good but not too bad. 
+Tools used during this project: 
+1) Pandas
+2)NumPy
+3)Matplotlib
+4)Seaborn
